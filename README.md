@@ -27,12 +27,12 @@
 
 ---
 
-<!-- Animated banner divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coder GIF"/>
+
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -245,23 +245,19 @@ if __name__ == "__main__":
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🎯 Current Focus & Roadmap
-```mermaid
-timeline
-    title Manoj's 2024–2025 Learning Journey
-    2024 Q1 : Python & SQL Mastery
-             : EDA & Statistical Analysis
-    2024 Q2 : Machine Learning Models
-             : Scikit-learn & XGBoost
-    2024 Q3 : Deep Learning
-             : TensorFlow & PyTorch
-    2024 Q4 : European Bank Churn Project
-             : Streamlit Dashboard
-             : Research Paper & Docs
-    2025 Q1 : LLMs & RAG Pipelines
-             : LangChain & HuggingFace
-    2025 Q2 : MLOps & Production Systems
-             : Docker & Airflow & MLflow
-```
+
+<div align="center">
+
+| Quarter | Focus Areas |
+|---------|-------------|
+| 2024 Q1 | 🐍 Python & SQL Mastery · 📊 EDA & Statistical Analysis |
+| 2024 Q2 | 🤖 Machine Learning · Scikit-learn & XGBoost |
+| 2024 Q3 | 🧠 Deep Learning · TensorFlow & PyTorch |
+| 2024 Q4 | 🏦 European Bank Churn Project · Streamlit Dashboard |
+| 2025 Q1 | 💬 LLMs & RAG Pipelines · LangChain & HuggingFace |
+| 2025 Q2 | ☁️ MLOps & Production Systems · Docker & Airflow |
+
+</div>
 
 ---
 
