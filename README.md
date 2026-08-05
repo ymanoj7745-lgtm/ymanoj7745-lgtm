@@ -13,13 +13,13 @@
 
 <!-- Social badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/y-manoj-441216298/">
+  <a href="https://www.linkedin.com/in/ymanoj7745/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="https://github.com/ymanoj7745-lgtm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-2ea44f?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=ymanoj7745-lgtm&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS"/>
 </div>
 
@@ -43,17 +43,17 @@ from typing import List
 @dataclass
 class Manoj:
     """
-    Data Scientist | ML Engineer | Python Developer
+    AI/ML Engineer | Data Scientist | Python Developer
     ─────────────────────────────────────────────────
     Turning messy data into clean decisions since 2022.
     """
 
     name:         str  = "Y. Manoj"
-    location:     str  = "India 🇮🇳"
+    location:     str  = "Raipur, Chhattisgarh, India 🇮🇳"
     email:        str  = "ymanoj7745@gmail.com"
 
     roles: List[str] = field(default_factory=lambda: [
-        "🧠 Data Scientist",
+        "🧠 AI/ML Engineer",
         "⚙️  ML Engineer",
         "🐍 Python Developer",
         "📊 Analytics Engineer",
@@ -61,8 +61,8 @@ class Manoj:
 
     stack: dict = field(default_factory=lambda: {
         "languages"  : ["Python", "R", "SQL", "Bash"],
-        "ml_ai"      : ["TensorFlow", "PyTorch", "Scikit-learn",
-                        "XGBoost", "HuggingFace", "LangChain"],
+        "ml_ai"      : ["TensorFlow", "PyTorch", "Keras", "Scikit-learn",
+                        "XGBoost", "HuggingFace", "LangChain", "LangGraph"],
         "data"       : ["Pandas", "NumPy", "Spark", "dbt"],
         "viz"        : ["Plotly", "Seaborn", "Matplotlib", "Power BI"],
         "web"        : ["Streamlit", "FastAPI", "Flask", "Django"],
@@ -71,9 +71,9 @@ class Manoj:
         "tools"      : ["Git", "Jupyter", "VS Code", "Airflow"],
     })
 
-    currently_building: str = "🏦 Churn Intelligence System — European Bank"
-    learning_next:      str = "🤖 LLMs, RAG pipelines & real-time MLOps"
-    open_to:            str = "💼 Data Science & ML Engineering roles"
+    currently_building: str = "🩺 Arvyax — deployed ML inference API (TensorFlow/FastAPI/Docker)"
+    learning_next:      str = "☁️ GCP & MLOps · 🔥 PyTorch fundamentals"
+    open_to:            str = "💼 AI/ML Engineering & Data Science opportunities"
 
     fun_facts: List[str] = field(default_factory=lambda: [
         "📊 I let data do the talking",
@@ -146,6 +146,7 @@ if __name__ == "__main__":
 ![LightGBM](https://img.shields.io/badge/LightGBM-00BCD4?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=for-the-badge&logo=python&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white)
@@ -236,7 +237,7 @@ if __name__ == "__main__":
 | 📉 Data Visualization | Plotly, Power BI, Seaborn | `████████████████████` 90% |
 | 🗄️ SQL & Databases | Query, Design, Optimize | `█████████████████░░░` 85% |
 | ☁️ Cloud & MLOps | GCP, Docker, MLflow | `████████████░░░░░░░░` 60% |
-| 💬 NLP | Text Classification, RAG | `██████████████░░░░░░` 70% |
+| 💬 NLP / LLMs | RAG, LangChain, LangGraph | `███████████████░░░░░` 75% |
 
 </div>
 
@@ -248,14 +249,14 @@ if __name__ == "__main__":
 
 <div align="center">
 
-| Quarter | Focus Areas |
-|---------|-------------|
-| 2024 Q1 | 🐍 Python & SQL Mastery · 📊 EDA & Statistical Analysis |
-| 2024 Q2 | 🤖 Machine Learning · Scikit-learn & XGBoost |
-| 2024 Q3 | 🧠 Deep Learning · TensorFlow & PyTorch |
-| 2024 Q4 | 🏦 European Bank Churn Project · Streamlit Dashboard |
-| 2025 Q1 | 💬 LLMs & RAG Pipelines · LangChain & HuggingFace |
-| 2025 Q2 | ☁️ MLOps & Production Systems · Docker & Airflow |
+| Period | Focus Areas |
+|--------|-------------|
+| 2025 H2 | 🏦 European Bank Churn & Fraud Detection Projects · Streamlit Dashboards |
+| Jan–Apr 2026 | 🎓 Data Science Internship @ Unified Mentor Pvt. Ltd. |
+| Mar–Jun 2026 | 🩺 Arvyax (deployed ML API) · 🤖 AutoStream (LangChain/LangGraph RAG agent) |
+| Jun 2026 | 🎓 B.Tech (AI & ML) graduation, Krishna's Vikash Institute of Technology |
+| 2026–Present | 💼 AI/ML Engineer @ GetSetAI Innovations |
+| Now | ☁️ Deepening GCP & PyTorch · 📄 Refining role-targeted ML/DS applications |
 
 </div>
 
@@ -267,6 +268,16 @@ if __name__ == "__main__":
 
 <div align="center">
 
+<a href="https://github.com/ymanoj7745-lgtm/arvyax-api">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ymanoj7745-lgtm&repo=arvyax-api&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9"/>
+</a>
+<a href="https://github.com/ymanoj7745-lgtm/autostream-agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ymanoj7745-lgtm&repo=autostream-agent&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9"/>
+</a>
+
+<a href="https://github.com/ymanoj7745-lgtm/smart-task-manager">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ymanoj7745-lgtm&repo=smart-task-manager&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9"/>
+</a>
 <a href="https://github.com/ymanoj7745-lgtm/european-bank-churn-analysis">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ymanoj7745-lgtm&repo=european-bank-churn-analysis&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9"/>
 </a>
