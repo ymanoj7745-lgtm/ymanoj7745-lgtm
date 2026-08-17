@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Y.%20MANOJ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=18&stroke=ffffff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Y.%20MANOJ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20building%20practical%20AI%20systems%20across%20ML,%20GenAI,%20data%20%26%20backend%20engineering&descAlignY=58&descSize=16&stroke=ffffff&strokeWidth=2"/>
 
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Manoj+—+nice+to+meet+you!;📊+I+turn+raw+data+into+real+decisions;🤖+Building+ML+systems+that+actually+ship;🧠+Currently+obsessed+with+LLMs+%26+MLOps;🏦+Churn+Intelligence+%7C+European+Banking+Project;☕+Powered+by+data%2C+coffee+%26+curiosity"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Manoj+—+nice+to+meet+you!;🤖+AI%2FML+Engineer+building+practical+AI+systems;📊+Machine+Learning+%7C+GenAI+%7C+Data+%7C+Backend;🧠+Currently+obsessed+with+LLMs+%26+MLOps;🏦+Churn+Intelligence+%7C+European+Banking+Project;☕+Powered+by+data%2C+coffee+%26+curiosity"/>
 </div>
 
 <br/>
@@ -27,9 +27,11 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; About Me
+## 🧑‍💻 &nbsp; About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coder GIF"/>
 
@@ -43,7 +45,8 @@ from typing import List
 @dataclass
 class Manoj:
     """
-    AI/ML Engineer | Data Scientist | Python Developer
+    AI/ML Engineer building practical AI systems across
+    Machine Learning, GenAI, data and backend engineering.
     ─────────────────────────────────────────────────
     Turning messy data into clean decisions since 2022.
     """
@@ -94,14 +97,12 @@ if __name__ == "__main__":
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ymanoj7745-lgtm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6E40C9&title_color=6E40C9&icon_color=6E40C9"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ymanoj7745-lgtm&theme=tokyonight&hide_border=true&ring=6E40C9&fire=FF6B35&currStreakLabel=6E40C9"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=ymanoj7745-lgtm&theme=tokyonight&hide_border=true&ring=6E40C9&fire=FF6B35&currStreakLabel=6E40C9"/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymanoj7745-lgtm&theme=tokyonight&hide_border=true&layout=donut&title_color=6E40C9&langs_count=8"/>
 <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=ymanoj7745-lgtm&theme=tokyo-night&bg_color=1a1b27&color=6E40C9&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
@@ -109,8 +110,6 @@ if __name__ == "__main__":
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🏆 GitHub Trophies
 
@@ -120,9 +119,7 @@ if __name__ == "__main__":
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> &nbsp; Tech Stack
+## 🛠️ &nbsp; Tech Stack
 
 ### 🐍 Languages
 <div align="center">
@@ -222,8 +219,6 @@ if __name__ == "__main__":
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 📈 Skill Proficiency
 
 <div align="center">
@@ -243,8 +238,6 @@ if __name__ == "__main__":
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🎯 Current Focus & Roadmap
 
 <div align="center">
@@ -261,8 +254,6 @@ if __name__ == "__main__":
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🚀 Featured Projects
 
@@ -286,8 +277,6 @@ if __name__ == "__main__":
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -299,8 +288,6 @@ if __name__ == "__main__":
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 💬 Dev Quote of the Day
 
