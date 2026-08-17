@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Y.%20MANOJ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20building%20practical%20AI%20systems%20across%20ML,%20GenAI,%20data%20%26%20backend%20engineering&descAlignY=58&descSize=16&stroke=ffffff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Y.%20MANOJ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20building%20practical%20AI%20systems%20across%20ML,%20GenAI,%20data%20%26%20backend%20engineering&descAlignY=58&descSize=16&stroke=ffffff&strokeWidth=2"/>
 
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Manoj+—+nice+to+meet+you!;🤖+AI%2FML+Engineer+building+practical+AI+systems;📊+Machine+Learning+%7C+GenAI+%7C+Data+%7C+Backend;🧠+Currently+obsessed+with+LLMs+%26+MLOps;🏦+Churn+Intelligence+%7C+European+Banking+Project;☕+Powered+by+data%2C+coffee+%26+curiosity"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Manoj+—+nice+to+meet+you!;🤖+AI%2FML+Engineer+building+practical+AI+systems;📊+Machine+Learning+%7C+GenAI+%7C+Data+%7C+Backend;🧠+Currently+obsessed+with+LLMs+%26+MLOps;🏦+Churn+Intelligence+%7C+European+Banking+Project;☕+Powered+by+data%2C+coffee+%26+curiosity"/>
 </div>
 
 <br/>
