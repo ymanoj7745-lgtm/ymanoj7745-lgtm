@@ -5,8 +5,9 @@
 </div>
 
 <!-- Typing animation -->
+<!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Manoj+—+nice+to+meet+you!;🤖+AI%2FML+Engineer+building+practical+AI+systems;📊+Machine+Learning+%7C+GenAI+%7C+Data+%7C+Backend;🧠+Currently+obsessed+with+LLMs+and+MLOps;🏦+Churn+Intelligence+%7C+European+Banking+Project;☕+Powered+by+data%2C+coffee+and+curiosity&v=2"/>
+  <img src="./assets/typing-intro.svg" width="760" alt="Typing introduction"/>
 </div>
 
 <br/>
